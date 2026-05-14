@@ -26,10 +26,6 @@ body {
   color: var(--text);
 }
 
-#app {
-  min-height: 100vh;
-}
-
 img {
   display: block;
   width: 100%;
